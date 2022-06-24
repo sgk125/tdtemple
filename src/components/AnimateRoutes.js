@@ -1,20 +1,18 @@
 import React from 'react';
 import Home from './home/Home';
-import Contact from './home/Contact';
 // import Gallery, { gallery } from './components/home/Gallery';
 import Seva from './home/Seva';
 import Gallery1 from './home/Gallery1.jsx';
 import {
     Routes,
     Route,
-    Link, useLocation
+    useLocation
 } from "react-router-dom";
 
 import { AnimatePresence } from 'framer-motion';
 import Contact1 from './home/Contact1';
 import AboutTemple from './home/AboutTemple';
 import AboutInstitutions from './home/AboutInstitutions';
-import Upadevatha from './home/Upadevatha';
 import AboutManagement from './home/AboutManagement';
 import AboutUpadevathas from './home/AboutUpadevathas';
 

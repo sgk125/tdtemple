@@ -1,11 +1,7 @@
 import './App.css';
 import Header from './components/Header.jsx';
 import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Link, useLocation
-} from "react-router-dom";
+  BrowserRouter as Router} from "react-router-dom";
 
 import { Footer } from './components/Footer';
 import AnimateRoutes from './components/AnimateRoutes';
