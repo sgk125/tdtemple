@@ -39,7 +39,7 @@ export default function Gallery1() {
                 </ImageList>
             </Box>
             <div className="row">
-                            <div className="col-12 text-center"><a className="button gallery__button button--primary" href="#">More Images</a></div>
+                            <div className="col-12 text-center"><a className="button gallery__button button--primary" href="/#">More Images</a></div>
                         </div>
         </Container>
         </motion.div>
