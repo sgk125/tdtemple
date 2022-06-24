@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//tdtemple/static/css/main.f79c86b4.css",
+    "main.js": "//tdtemple/static/js/main.43206773.js",
+    "static/js/787.f3d7924f.chunk.js": "//tdtemple/static/js/787.f3d7924f.chunk.js",
+    "index.html": "//tdtemple/index.html",
+    "main.f79c86b4.css.map": "//tdtemple/static/css/main.f79c86b4.css.map",
+    "main.43206773.js.map": "//tdtemple/static/js/main.43206773.js.map",
+    "787.f3d7924f.chunk.js.map": "//tdtemple/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79c86b4.css",
+    "static/js/main.43206773.js"
+  ]
+}
